@@ -8,7 +8,10 @@ The easiest way to install the color schemes is by using [Package Control](https
 
 To clone this repository to the location of Sublime Text packages, do the following:
 
-    cd "~/Library/Application Support/Sublime Text 3/Packages"
-    git clone https://github.com/kristopherjohnson/MonochromeSublimeText.git Monochrome
+```sh
+cd "~/Library/Application Support/Sublime Text 3/Packages"
+git clone https://github.com/kristopherjohnson/MonochromeSublimeText.git Monochrome
+```
 
 Then choose one of the themes from the *Sublime Text -> Preferences -> Color Scheme -> Monochrome* submenu.
+
