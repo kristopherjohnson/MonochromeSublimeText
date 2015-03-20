@@ -15,18 +15,18 @@ git clone https://github.com/kristopherjohnson/MonochromeSublimeText.git Monochr
 
 Then choose one of the themes from the *Sublime Text &rarr; Preferences &rarr; Color Scheme &rarr; Monochrome* submenu.
 
-        <h3>Amber</h3>
-        <img src="https://kristopherjohnson.github.io/MonochromeSublimeText/images/AmberScreenshot.png" alt="Amber theme screenshot" width="600">
+<h3>Amber</h3>
+<img src="https://kristopherjohnson.github.io/MonochromeSublimeText/images/AmberScreenshot.png" alt="Amber theme screenshot" width="600">
 
-        <h3>Green</h3>
-        <img src="https://kristopherjohnson.github.io/MonochromeSublimeText/images/GreenScreenshot.png" alt="Green theme screenshot" width="600">
+<h3>Green</h3>
+<img src="https://kristopherjohnson.github.io/MonochromeSublimeText/images/GreenScreenshot.png" alt="Green theme screenshot" width="600">
 
-        <h3>Blue</h3>
-        <img src="https://kristopherjohnson.github.io/MonochromeSublimeText/images/BlueScreenshot.png" alt="Blue theme screenshot" width="600">
+<h3>Blue</h3>
+<img src="https://kristopherjohnson.github.io/MonochromeSublimeText/images/BlueScreenshot.png" alt="Blue theme screenshot" width="600">
 
-        <h3>Blueprint</h3>
-        <img src="https://kristopherjohnson.github.io/MonochromeSublimeText/images/BlueprintScreenshot.png" alt="Blueprint theme screenshot" width="600">
+<h3>Blueprint</h3>
+<img src="https://kristopherjohnson.github.io/MonochromeSublimeText/images/BlueprintScreenshot.png" alt="Blueprint theme screenshot" width="600">
 
-        <h3>daVinci</h3>
-        <img src="https://kristopherjohnson.github.io/MonochromeSublimeText/images/daVinciScreenshot.png" alt="daVinci theme screenshot" width="600">
+<h3>daVinci</h3>
+<img src="https://kristopherjohnson.github.io/MonochromeSublimeText/images/daVinciScreenshot.png" alt="daVinci theme screenshot" width="600">
 
